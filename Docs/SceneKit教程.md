@@ -7,16 +7,15 @@
 * [文档入口](https://developer.apple.com/scenekit/)
 * [Introduction](https://developer.apple.com/library/ios/documentation/SceneKit/Reference/SceneKit_Framework/)
 *  [数据结构的资料](https://developer.apple.com/library/ios/documentation/SceneKit/Reference/SceneKit_DataTypes/)
-*  [SceneKit编辑器使用教程](https://developer.apple.com/library/ios/documentation/SceneKit/Reference/SceneKit_DataTypes/)
+*  [SceneKit编辑器使用教程](https://developer.apple.com/library/ios/recipes/xcode_help-scene_kit_editor/)
 
-### 官方教程
+### 官方示范代码
 
-这部分内容主要是官方发布的一些实战教程
+这部分内容主要是官方提供的一些示范代码，可以下载下来体验一番，然后了解这种效果是怎么实现的：
 
 * [使用SceneKit编辑器开发游戏](https://developer.apple.com/library/ios/samplecode/Fox/Introduction/Intro.html)
 * [使用SceneKit开发的交通工具](https://developer.apple.com/library/ios/samplecode/SceneKitVehicle/Introduction/Intro.html)
-* [抱歉不会翻译这个名字](https://developer.apple.com/library/ios/samplecode/SceneKitReel/Introduction/Intro.html)
-* [一个3D游戏](https://developer.apple.com/library/ios/samplecode/Bananas/Introduction/Intro.html)
+* [SceneKit常见场景集合](https://developer.apple.com/library/ios/samplecode/SceneKitReel/Introduction/Intro.html)
 
 ### 第三方优秀博客
 
