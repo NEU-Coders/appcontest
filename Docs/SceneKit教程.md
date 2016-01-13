@@ -17,6 +17,10 @@
 * [使用SceneKit开发的交通工具](https://developer.apple.com/library/ios/samplecode/SceneKitVehicle/Introduction/Intro.html)
 * [SceneKit常见场景集合](https://developer.apple.com/library/ios/samplecode/SceneKitReel/Introduction/Intro.html)
 
+### 重点推荐
+
+[WWDC 2014 SceneKit](https://developer.apple.com/library/mac/samplecode/SceneKitWWDC2014/Introduction/Intro.html#//apple_ref/doc/uid/TP40014551-Intro-DontLinkElementID_2)：这好像是一个用`SceneKit`做的，讲解`SceneKit`的教程。里面既有知识介绍，也有Demo可供参考，有很多效果非常赞！
+
 ### 第三方优秀博客
 
 * CocoaChina的一篇译文，非常推荐：[Scene Kit上手指南](http://www.cocoachina.com/ios/20141113/10205.html)，建议根据教程来做一遍。
@@ -62,3 +66,26 @@ var cameraPosition: SCNVector3 = SCNVector3Make(0, 0, 25) // z轴正半轴
 
 一般来说，一个场景只需要一个光源和摄像机，所以`SCNLight `、`SCNCamera `通常都会被添加到场景的根节点上，此后根节点的子节点只考虑`SCNGeometry `和`SCNMaterail `即可。
 
+### SCNLight
+
+光源有四种类型：
+
+1. Ambient
+
+	Ambient这个单词本身表示**“环境的”**，这里表示环境光。光源从四面八方各个方向照射物体
+	
+2. Omni
+
+	Omni本身是一个前缀，表示**All**的意思。这种类型的光源表示点光源，这一点发出的光向周围发发散。它和Ambient正好是相对的，前者是光线从四周照向物体，而Omni表示光线从点光源照向四周。
+	
+3. Directional
+	
+	表示从某个方向照射来的一组平行光线。
+
+4. Spot
+	
+	这个光源会照亮一个圆锥体形状的区域，类似于舞台上的聚光灯效果
+	
+示意图如下，这四张图中唯一的区别就是光源的类型：
+
+![SceneKit坐标系统](http://7xonij.com1.z0.glb.clouddn.com/appcontest/lights_type.png)
