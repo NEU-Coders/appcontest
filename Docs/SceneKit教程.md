@@ -27,7 +27,8 @@
 * obj中国优秀译文[Scenekit](http://objccn.io/issue-18-3/)
 
 ### 补充推荐
-*三篇英文教程博客[Introduction To SceneKit 1-3](https://www.weheartswift.com/?s=Scenekit)
+* 三篇英文教程[Introduction To SceneKit 1-3](https://www.weheartswift.com/?s=Scenekit)
+
 # 总结概括
 
 这部分主要是我目前的总结和概括，算是一个快速入门，有不对的地方大家一起讨论讨论。
