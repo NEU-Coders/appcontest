@@ -24,8 +24,10 @@
 ### 第三方优秀博客
 
 * CocoaChina的一篇译文，非常推荐：[Scene Kit上手指南](http://www.cocoachina.com/ios/20141113/10205.html)，建议根据教程来做一遍。
+* obj中国优秀译文[Scenekit](http://objccn.io/issue-18-3/)
 
-
+### 补充推荐
+*三篇英文教程博客[Introduction To SceneKit 1-3](https://www.weheartswift.com/?s=Scenekit)
 # 总结概括
 
 这部分主要是我目前的总结和概括，算是一个快速入门，有不对的地方大家一起讨论讨论。
