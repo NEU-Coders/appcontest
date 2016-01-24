@@ -21,6 +21,10 @@
 
 [WWDC 2014 SceneKit](https://developer.apple.com/library/mac/samplecode/SceneKitWWDC2014/Introduction/Intro.html#//apple_ref/doc/uid/TP40014551-Intro-DontLinkElementID_2)：这好像是一个用`SceneKit`做的，讲解`SceneKit`的教程。里面既有知识介绍，也有Demo可供参考，有很多效果非常赞！
 
+### 参考项目
+
+[SceneKit和Core Motion](https://github.com/hydrixos/scenekit-marble-demo)
+
 ### 第三方优秀博客
 
 * CocoaChina的一篇译文，非常推荐：[Scene Kit上手指南](http://www.cocoachina.com/ios/20141113/10205.html)，建议根据教程来做一遍。
