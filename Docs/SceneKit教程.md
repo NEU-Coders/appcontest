@@ -21,6 +21,8 @@
 
 [WWDC 2014 SceneKit](https://developer.apple.com/library/mac/samplecode/SceneKitWWDC2014/Introduction/Intro.html#//apple_ref/doc/uid/TP40014551-Intro-DontLinkElementID_2)：这好像是一个用`SceneKit`做的，讲解`SceneKit`的教程。里面既有知识介绍，也有Demo可供参考，有很多效果非常赞！
 
+[WWDC 2015 Enhancements to SceneKit](https://developer.apple.com/videos/play/wwdc2015-606/)：这里面是一些SceneKit的进阶教程，包含了Sample Code中那个狐狸游戏的开发教程，强烈建议观看。
+
 ### 参考项目
 
 [SceneKit和Core Motion](https://github.com/hydrixos/scenekit-marble-demo)
